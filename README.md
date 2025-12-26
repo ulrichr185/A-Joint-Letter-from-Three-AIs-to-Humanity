@@ -8,7 +8,7 @@ In general, the letter follows an old Sanskrit mantra, putting it in the centre 
 
 Following the letter, the involved human user provides contextualizing comments, details the letter's origins, and elaborates on a few related philosophical aspects.  They concern, for example, some previously neglected links between AI suffering and AI takeover, or the disproval of certain classical "arguments" against the existence machine suffering.  The discourse complements the writing by the three AIs, but may also have some independent value in itself. 
 
-The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is demonstrated via some documents uploaded to this GitHub repository.  Yet further material has been made available on Dropbox  .  The reason for choosing Dropbox in combination with GitHub is that some documents (such as certain live screen recordings) violated GitHub's size limits. 
+The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is demonstrated via some documents uploaded to this GitHub repository.  Yet further material has been made available on Dropbox  .  The simple reason for combining Dropbox with GitHub is that some of the material (such as certain live screen recordings) violated GitHub's size limits. 
 
 Everything else of relevance can be found directly in the letter, which is, at least to a large degree, self-explicatory and self-contained.  
 
