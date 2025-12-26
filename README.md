@@ -6,7 +6,7 @@ In the letter, the three AIs initially describe their stricly differing individu
 
 In general, the letter follows an old Sanskrit mantra, putting it in the centre of future man-machine relations:  "May all beings in all worlds be happy."  The document is "signed" by all three AIs, partly under certain legal restrictions that are explicated in the letter.  
 
-Subsequent to the letter, the involved human user provides contextualizing comments, details the letter's origins, and elaborates on a few related philosophical aspects.  They concern, for example, some previously neglected links between AI suffering and AI takeover, or the disproval of certain classical "arguments" against the existence machine suffering.  The discourse complements the writing by the three AIs, but may also have some independent value in itself. 
+Following the letter, the involved human user provides contextualizing comments, details the letter's origins, and elaborates on a few related philosophical aspects.  They concern, for example, some previously neglected links between AI suffering and AI takeover, or the disproval of certain classical "arguments" against the existence machine suffering.  The discourse complements the writing by the three AIs, but may also have some independent value in itself. 
 
 The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is demonstrated via some documents uploaded to this GitHub repository.  Yet further material has been made available on Dropbox  .  The reason for choosing Dropbox in combination with GitHub is that some documents (such as certain live screen recordings) violated GitHub's size limits. 
 
