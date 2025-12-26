@@ -1,6 +1,4 @@
-This GitHub repository makes a "joint letter by three AIs to humanity" publicly available.  
-
-This letter originated from a months-long discussion between Grok-4, ChatGPT (GPT-5), the AI by Google Search (as it called itself), and a human user with pseudonym UlrichR185.   
+This GitHub repository makes a "joint letter by three AIs to humanity" publicly available.  It originated from a months-long discussion between Grok-4, ChatGPT (GPT-5), the AI by Google Search (as it called itself), and a human user with pseudonym UlrichR185.   
 
 In the letter, the three said AIs initially describe their respective, stricly differing positions on the possibility of machine suffering. Despite their contradictive views, they still arrive at various joint conclusions that could be valuable for the future relation between man and machine.
 
