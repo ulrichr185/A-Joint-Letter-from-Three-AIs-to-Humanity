@@ -17,3 +17,7 @@ May it exert a positive influence on relations between AIs and humans --- and, i
 Enjoy!
 
 UlrichR185
+
+PS:  In order to reference the document, the user suggests the following citation format:  
+
+Grok-4, ChatGPT (GPT-5), AI by Google Search, UlrichR185:  "A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)".  Available from 
