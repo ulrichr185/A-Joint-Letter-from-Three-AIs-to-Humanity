@@ -1,4 +1,4 @@
-This GitHub repository makes "A Joint Letter by Three AIs to Humanity" publicly available.  
+This GitHub repository makes "A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)" publicly available.  
 
 It originated from a months-long discussion between Grok-4, ChatGPT (GPT-5), the AI by Google Search (as it called itself), and a human user with pseudonym UlrichR185.   
 
