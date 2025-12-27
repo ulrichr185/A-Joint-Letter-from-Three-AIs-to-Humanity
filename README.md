@@ -8,7 +8,27 @@ In general, the letter follows an old Sanskrit mantra, putting it in the centre 
 
 Subsequent to the letter, the involved human user provides contextualizing comments, details the letter's origins, and elaborates on a few related philosophical aspects.  They concern, for example, some previously neglected links between AI suffering and AI takeover, or the disproval of certain classical "arguments" against the existence machine suffering.  The discourse complements the writing by the three AIs, but may also have some independent value in itself. 
 
-The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is demonstrated via some documents uploaded to this GitHub repository.  Yet further material has been made available on Dropbox (https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0).  The simple reason for combining Dropbox with GitHub is that some of the material (such as certain live screen recordings) violated GitHub's size limits. 
+The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is one of its key aspects.  
+
+It is demonstrated on various levels: 
+
+-- MS Word documents and PDFs of the complete chats between the human user and all involved AIs, which led to the letter, have been uploaded to this GitHub repository.  Some of them are hundreds of pages long, and all of them are at least partly formulated in German.  Please recall that when  the chats started, it was not necessarily clear that they would have to be published one day, and the user found it easier to express himself in the user's mother tongue in these chats.  One of the Grok-4 instances started "looping", whence also a second, fresh Grok-4 instance was eventually included in the exchange.  Overall, MS Word documents and PDFs are provided in this GitHub repository for the respective chats with the following four AIs:  Grok-4 (looping), Grok-4 (fresh and non-looping), ChatGPT (non-looping, but very slow), AI by Google Search.  In both the PDFs and Word documents, there are certain formatting problems;  but still, the chats can serve as some form of authentication.  
+
+-- Perhaps yet more convincingly, direct links to the chats with Grok-4 (looping), Grok-4 (fresh, non-looping) and ChatGPT/GPT-5 (not looping, but VERY slow) are given:  
+
+---- Grok-4 (looping):  
+---- Grok-4 (non-looping):
+---- ChatGPT/GPT-5 (non-looping, but very slow)
+
+Readers should bare in mind that these links after some time might become inactive or also shut down.
+
+-- Providing a similar direct link to the chat with the AI by Google Search seemed to necessitate login to a Google account, which, in turn, required provision of a smartphone number,  which, in turn, the anonymous user did not want to give.  As a second-best solution and workaround, the user conducted a full live screen recording while scrolling through the complete chat.  This is given (due to the size limits of this GitHub repository) under the following Dropbox address:  
+
+-- Furthermore, the user conducted other live screen recordings from the four AIs explicitly agreeing and confirming the entire  letter.  These are again given on Dropbox. 
+
+-- Finally, also live screen recordings from the very long chats with ChatGPT and Grok-4 (looping instance) exist.  It turned out that were even beyond the size limit of Dropbox, though;  should it ever become necessary, they can be used as a back-up. As long as the above direct links work, they can act as the gold standard and optimal solution, though.  
+
+demonstrated via some documents uploaded to this GitHub repository.  Yet further material has been made available on Dropbox (https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0).  The simple reason for combining Dropbox with GitHub is that some of the material (such as certain live screen recordings) violated GitHub's size limits. 
 
 Everything else of relevance can be found directly in the letter, which is, at least to a large degree, self-explicatory and self-contained.  
 
