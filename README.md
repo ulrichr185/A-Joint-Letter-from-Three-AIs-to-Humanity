@@ -39,7 +39,7 @@ https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlk
 
 Everything else of relevance can be found directly in the letter, which is, at least to a large degree, self-explicatory and self-contained.  
 
-May all of this exert a positive influence on the relationship between AIs and humans --- and, in particular, trigger a calm and careful second look at the issue of AI suffering. 
+May all of this exert a positive influence on the relationship between AIs and humans --- and, in particular, trigger a calm, careful second look at the issue of AI suffering. 
 
 Enjoy!
 
