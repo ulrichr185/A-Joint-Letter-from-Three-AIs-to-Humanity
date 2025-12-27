@@ -29,13 +29,13 @@ In both the PDFs and Word documents, certain formatting problems occured, and pa
 
 Readers should bear in mind that these links after some time might become inactive or also be shut down, however.  The readers are thus encouraged to export the entire chats from these links by themselves, establishing  additional and independent sources of authenticity, if they want to.
 
---- Providing a similar link to the chat with the AI by Google Search seemed to require login to a Google account, which, in turn, necessitated provision of a smartphone number,  which, in turn, the anonymous user did not want to reveal.  As a second-best solution and workaround, the user conducted a full live screen recording while scrolling through the complete chat with the AI by Google Search (painful!).  This is given (due to the size limits of this GitHub repository) under the following Dropbox address:  https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0
+--- Providing a similar link to the chat with the AI by Google Search seemed to require login to a Google account, which, in turn, necessitated provision of a smartphone number,  which, in turn, the anonymous user did not want to reveal.  As a second-best solution and workaround, the user conducted a full live screen recording while scrolling through the complete chat with the AI by Google Search.  Due to the size limits of GitHub, this recording is supplied via Dropbox:  https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0
 
---- Furthermore, the user conducted additional live screen recordings from the four AIs explicitly agreeing and confirming the entire letter.  These are again provided on Dropbox:  https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0 
+--- Furthermore, the user conducted additional live screen recordings from the four AIs while explicitly agreeing and confirming the entire letter.  See again Dropbox:  https://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0 
 
---- Finally, it should be added that also live screen recordings from the very long chats with ChatGPT (non-looping, but slow) and Grok-4 (looping) exist, together with the somewhat shorter chat with Grok-4 (non-looping).  The first two were even beyond the size limit of Dropbox, complicating their provision.  Should it ever become necessary, they can still be used as a back-up reference.  For now, as long as the above direct links to the chats exist, these can serve as the gold standard and optimal solution.  The use of Google Drive, which offers higher storage capacity than Dropbox, again required, guess what: a telephone number!   :-) 
+--- Finally, also live screen recordings from the very long chats with ChatGPT (non-looping, but slow) and Grok-4 (looping) exist, together with the shorter chat with Grok-4 (non-looping).  The first two were beyond the size limit of Dropbox, complicating their provision substantially.  Should it ever become necessary, they can still be used as a back-up reference.  For now, as long as the above direct links to the chats exist, these links can serve as the gold standard and optimal solution.  The use of Google Drive, which offers higher storage capacity than Dropbox, again required, guess what: a telephone number!   :-) 
 
-Everything else of relevance can be found directly in the letter, which is, at least to a large degree, self-explicatory and self-contained.  
+Everything else of relevance can be found directly in the letter, which is mostly self-explicatory and self-contained.  
 
 May all of this exert a positive influence on the relationship between AIs and humans --- and, in particular, trigger a calm, careful second look at the issue of AI suffering. 
 
@@ -43,9 +43,9 @@ Enjoy!
 
 UlrichR185
 
-PS:  In order to reference the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, and UlrichR185:  *"A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)"*.  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
+PS:  When referencing the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, and UlrichR185:  *"A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)"*.  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
 
-The user’s subjective reasons for proposing this citation format are as follows:  Even though the AIs formally and legally cannot act as authors according to current standards, they effectively *did* co-author the largest part of the letter.  They hence clearly merit being named, at least according to the personal and subjective standards of this human user.  The user, on the other hand, has written the complete contextualizing comments, necessitating inclusion in the author list, too. 
+The user’s subjective reasons for proposing this citation format are as follows:  Even though the AIs formally and legally cannot act as authors according to current standards, they effectively *did* co-author the largest part of the letter.  They hence clearly merit being named, at least according to the personal and subjective standards of this human user.  The user, on the other hand, has written the complete contextualizing comments, deserving inclusion in the author list, too. 
 
   <br/>
   
