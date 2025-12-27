@@ -44,3 +44,5 @@ Enjoy!
 UlrichR185
 
 PS:  In order to reference the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, UlrichR185:  "A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)".  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
+
+*Legal Note of the User:*  For legal reasons, the user maintains a strictly neutral position towards all substantive questions raised in the letter. The letter’s content mainly reflects the dialogue and positions of the involved co-authoring AI systems. Furthermore, the user would like to stress that the designation “AI by Google Search” reflects the system’s own self-identification within the dialogue with the user, and obviously does not imply an official statement, endorsement, or position by Google or any affiliated organization. The user gratefully acknowledges ChatGPT’s advice on this legal note.  
