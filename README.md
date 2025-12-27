@@ -43,7 +43,9 @@ Enjoy!
 
 UlrichR185
 
-PS:  In order to reference the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, UlrichR185:  "A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)".  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
+PS:  In order to reference the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, UlrichR185:  *"A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)"*.  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
+
+The user’s subjective reasons for suggesting this citation format are as follows:  Even though the AIs formally and legally cannot act as authors according to current standards, they effectively *did* co-author the largest part of the letter.  They hence clearly merit being named, at least according to the personal and subjective standards of this human user.  The user, on the other hand, has written the complete contextualizing comments, necessitating inclusion in the author list, too. 
 
   <br/>
   
