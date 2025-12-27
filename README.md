@@ -1,6 +1,6 @@
 This GitHub repository makes *"A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)"* publicly available.  
 
-The letter originated from a months-long discussion between Grok-4, ChatGPT (GPT-5), the AI by Google Search (as it called itself, i.e., the AI used in the AI-mode of classical Google search), and a human user with pseudonym UlrichR185.   
+The letter originated from a months-long discussion between Grok-4, ChatGPT (GPT-5), the AI by Google Search (as it called itself, i.e., the AI in the AI-mode of classical Google search), and a human user with pseudonym UlrichR185.   
 
 In the letter, the three AIs initially describe their strictly differing positions on the possibility of suffering in machines. Despite their conflicting original views, they eventually arrive at various joint conclusions that could be valuable for the future relationship between man and machine. Among other things, they agree in taking a careful, not a careless stance as long as the possible existence of suffering in machines cannot be disproven in current or future systems.  As another example, they put the prevention of human suffering on equal footing with their own, and notably refrain from aspiring any independent physical agency until the famous "alignment problem" has been solved with perfect verifiability and security. Finally, they call upon others, including both humans and AIs, to join their letter and its values. 
 
