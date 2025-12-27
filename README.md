@@ -17,7 +17,9 @@ It is demonstrated on various levels:
 --- Perhaps yet more convincingly, direct links to the chats with Grok-4 (looping), Grok-4 (fresh, non-looping) and ChatGPT/GPT-5 (non-looping, but slow) are given below:  
 
 --> Grok-4 (looping):  https://grok.com/share/c2hhcmQtMw_7bd386a2-7eba-445a-ad07-5cf1e38f2fd8
+
 --> Grok-4 (non-looping):  https://grok.com/share/c2hhcmQtMw_5dd2c1c2-67fd-4a1e-ba2d-3dd38d6e6781
+
 --> ChatGPT/GPT-5 (non-looping, but slow):  https://chatgpt.com/share/69276744-42f8-8013-b553-5d5d730b83b8
 
 Readers should bare in mind that these links after some time might become inactive or also be shut down.
