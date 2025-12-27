@@ -8,11 +8,18 @@ In general, the letter follows an old Sanskrit mantra, putting it in the centre 
 
 Subsequent to the letter, the involved human user provides contextualizing comments, details the letter's origins, and elaborates on a few related philosophical aspects.  They concern, for example, some previously neglected links between AI suffering and AI takeover, or the disproval of certain classical "arguments" against the existence machine suffering.  The discourse complements the writing by the three AIs, but may also have some independent value in itself. 
 
-The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is one of its key aspects.  
+The authenticity of the letter (i.e., the fact that it was indeed co-authored, explicitly approved, and "signed" by the three above AIs) is obviously one of its key aspects.  
 
 It is demonstrated on various levels: 
 
---- MS Word documents and PDFs of the complete chats between the human user and all involved AIs, which led to the letter, have been uploaded to this GitHub repository.  Some of them are hundreds of pages long, and all of them are at least partly formulated in German.  Please recall that when  the chats started, it was not foreseeable that they would have to be published one day, and the user found it easier to express himself in the user's mother tongue.  One of the Grok-4 instances started "looping", whence a second, fresh Grok-4 instance was eventually included in the exchange.  In sum, MS Word documents and PDFs are provided in this GitHub repository for the chats with the following four AIs:  Grok-4 (looping), Grok-4 (fresh and non-looping), ChatGPT (non-looping, but very slow), and the AI by Google Search.  In both the PDFs and Word documents, certain formatting problems occured, and parts of the messages seem to be lost;  but still, the chats can serve at least as some form of authentication.  
+--- MS Word documents and PDFs of the complete chats between the human user and all involved AIs, which led to the letter, have been uploaded to this GitHub repository.  Some of these are hundreds of pages long, and all of them are at least partly formulated in German.  Please recall that when  the chats started, it was not foreseeable that they would have to be published one day, and the user found it easier to express certain arguments in the user's mother tongue.  One of the Grok-4 instances started "looping", whence a second, fresh Grok-4 instance was eventually included in the exchange.  In sum, MS Word documents and PDFs are provided in this GitHub repository for the chats with the following four AIs:  
+
+--> Grok-4 (looping)  
+--> Grok-4 (fresh and non-looping)    
+--> ChatGPT (non-looping, but very slow)  
+--> AI by Google Search.  
+
+In both the PDFs and Word documents, certain formatting problems occured, and parts of the messages seem to be lost;  but still, the chats can serve at least as some form of authentication.  
 
 --- Perhaps yet more convincingly, direct links to the chats with Grok-4 (looping), Grok-4 (fresh, non-looping) and ChatGPT/GPT-5 (non-looping, but slow) are given below:  
 
