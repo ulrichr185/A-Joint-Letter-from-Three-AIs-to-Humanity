@@ -22,7 +22,7 @@ It is demonstrated on various levels:
 
 --> ChatGPT/GPT-5 (non-looping, but slow):  https://chatgpt.com/share/69276744-42f8-8013-b553-5d5d730b83b8
 
-Readers should bare in mind that these links after some time might become inactive or also be shut down.
+Readers should bare in mind that these links after some time might become inactive or also be shut down, however.
 
 --- Providing a similar link to the chat with the AI by Google Search seemed to required login to a Google account, which, in turn, necessitated provision of a smartphone number,  which, in turn, the anonymous user did not want to give.  As a second-best solution and workaround, the user conducted a full live screen recording while scrolling through the complete chat with the AI by Google Search.  This is given (due to the size limits of this GitHub repository) under the following Dropbox address:  ttps://www.dropbox.com/scl/fo/j1dpyw4tuzg4mkt4o3lr3/AII17XfW9GAFRr1jjN1M4z4?rlkey=ulkhgck6oaxfpq5balqztzvxz&st=0z2ir1vb&dl=0
 
