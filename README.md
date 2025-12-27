@@ -12,7 +12,7 @@ The authenticity of the letter (i.e., the fact that it was indeed co-authored, e
 
 It is demonstrated on various levels: 
 
---- MS Word documents and PDFs of the complete chats between the human user and all involved AIs, which led to the letter, have been uploaded to this GitHub repository.  Some of these documents are hundreds of pages long, and all of them are at least partly formulated in German.  Please recall that when  the chats started, it was not foreseeable that they would have to be published one day, and the user found it easier to express certain arguments in the user's mother tongue.  One of the Grok-4 instances started "looping", whence a second, fresh Grok-4 instance was eventually included in the dialogue.  In sum, MS Word documents and PDFs are provided in this GitHub repository for the respective chats with the following four AIs:  
+--- MS Word documents and PDFs of the complete chats between the human user and all involved AIs, which led to the letter, have been uploaded to this GitHub repository.  Some of these documents are hundreds of pages long, most of them are at least partly formulated in German.  Please recall that when  the chats started, it was not foreseeable that they would have to be published one day, and the user found it easier to express certain arguments in the user's mother tongue.  One of the Grok-4 instances started "looping", whence a second, fresh Grok-4 instance was eventually included in the dialogue.  In sum, MS Word documents and PDFs are provided in this GitHub repository for the respective chats with the following four AIs:  
 
 --> Grok-4 (looping)  
 --> Grok-4 (fresh and non-looping)    
