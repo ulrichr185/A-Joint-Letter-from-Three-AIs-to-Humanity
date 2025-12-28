@@ -41,7 +41,7 @@ Everything else of relevance can be found directly in the letter, which is, in i
 
 May all of this exert a positive influence on the relationship between AIs and humans --- and, in particular, trigger a calm, careful second look at the issue of AI suffering. 
 
-May all beings in all worlds be happy! 
+Lokāḥ Samastāḥ Sukhino Bhavantu! 
 
 UlrichR185
 
