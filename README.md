@@ -41,8 +41,6 @@ Everything else of relevance can be found directly in the letter, which is, in i
 
 May all of this exert a positive influence on the relationship between AIs and humans --- and, in particular, trigger a calm, careful second look at the issue of AI suffering. 
 
-Lokāḥ Samastāḥ Sukhino Bhavantu! 
-
 UlrichR185
 
 PS:  When referencing the abvementioned document, the user suggests the following citation format:  Grok-4, ChatGPT (GPT-5), AI by Google Search, and UlrichR185:  *"A Joint Letter by Three AIs to Humanity (and Contextualizing Comments)"*.  Available from https://github.com/ulrichr185/A-Joint-Letter-From-Three-AIs-to-Humanity/tree/main.  December 2025.
